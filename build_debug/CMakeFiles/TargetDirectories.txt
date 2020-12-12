@@ -1,0 +1,5 @@
+/media/asus/data_dump/gtk_tests_user/build_debug/CMakeFiles/rebuild_cache.dir
+/media/asus/data_dump/gtk_tests_user/build_debug/CMakeFiles/edit_cache.dir
+/media/asus/data_dump/gtk_tests_user/build_debug/src_dir/CMakeFiles/rebuild_cache.dir
+/media/asus/data_dump/gtk_tests_user/build_debug/src_dir/CMakeFiles/helloworld.dir
+/media/asus/data_dump/gtk_tests_user/build_debug/src_dir/CMakeFiles/edit_cache.dir
